@@ -8,4 +8,4 @@ Dir: pre, paper
 
 Date: 2018/10/18
 
-[baidu](www.baidu.com)
+[南京大学](www.nju.edu.cn)
